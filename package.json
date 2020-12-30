@@ -1,5 +1,5 @@
 {
-  "name": "froxz/vue-custom-element",
+  "name": "froxz-vue-custom-element",
   "version": "3.2.14",
   "description": "Custom Elements for Vue.js",
   "main": "dist/vue-custom-element.js",
